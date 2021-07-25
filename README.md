@@ -4,3 +4,8 @@
 Single page Website
 
 Status : Completed
+
+# Task-2:-
+Fetching users from given API.
+
+Status : Completed
